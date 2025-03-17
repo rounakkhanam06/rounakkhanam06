@@ -6,9 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rounakkhanam06&label=Profile%20views&color=0e75b6&style=flat" alt="rounakkhanam06" /> </p>
 
-- 🌱 I’m currently learning **react.js**
+- 🌱  Currently enhancing my skills in **full-stack development**.
 
 - 📫 How to reach me **raunakkhanam0207@gmail.com**
+- ⚡ Fun fact: I enjoy tackling challenging coding problems.
+- 🌐 Always exploring new web technologies and trends to expand my knowledge.
+- 🚀 Driven by curiosity and a love for building impactful digital solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
